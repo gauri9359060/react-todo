@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  margin: 40px;
+}
+.wrapper{
+  background-color: rgb(211, 241, 211);
+  margin: auto;
+  width: 80%;
+}
+.inputWrapper{
+    display: flex;
+    margin-left: 0px;
+}

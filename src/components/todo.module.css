@@ -1,0 +1,43 @@
+.strike{
+    text-decoration: line-through;
+}
+.normal{
+    text-decoration: none;
+}
+.todoItem{
+    display: flex;
+    margin: 10px;
+    align-items: center;
+}
+.inputBox{
+    padding: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: rgb(141, 173, 141);
+    color: white;
+    font-size: 30px;
+    width: 500px;
+    border: none;
+    font-weight: 700;
+}
+
+.AddBtn{
+    padding: 20px;
+    font-size: 30px;
+    background-color: rgb(141, 173, 141);
+    width: 60px;
+    border: none;
+    color: white;
+}
+.list{
+    padding: 20px;
+    background-color: rgb(53, 87, 53);
+    color: white;
+    font-size: 20px;
+    margin-left: -40px;
+}
+.list button{
+    width: 100px;
+    height: 75px;
+    margin-left: 60px;
+}
